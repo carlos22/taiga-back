@@ -4228,7 +4228,7 @@ msgstr "Neu"
 #. Translators: User story status
 #: taiga/projects/translations.py:78
 msgid "Ready"
-msgstr "Fertig"
+msgstr "Bereit"
 
 #. Translators: User story status
 #. Translators: Task status
